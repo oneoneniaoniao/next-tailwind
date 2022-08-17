@@ -17,8 +17,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Get started by editing 
+          <code className={"rounded-md bg-blue-300 p-3 m-4 cursor-pointer"}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
